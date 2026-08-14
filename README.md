@@ -15,6 +15,17 @@ An end-to-end Power BI project that analyzes Uber trip data to uncover booking t
 - **Bookmarks** — Provides additional dashboard views and data-detail interactions.
 - **Conditional Formatting** — Highlights high and low KPI values in vehicle-level analysis.
 
+## Dashboard Preview
+
+### Overview Analysis
+![Overview Dashboard](Screenshots/Overview.png)
+
+### Time Analysis
+![Time Analysis Dashboard](Screenshots/Time%20Analysis.png)
+
+### Details
+![Details Dashboard](Screenshots/Details.png)
+
 ## Prerequisites
 
 To explore or modify this project, you will need:
